@@ -54,6 +54,7 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 ```
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -211,28 +212,28 @@ Upload to GitHub Pages for free hosting.
     <section class="products" id="products">
 
         <div class="product">
-            <img src="headphone.jpeg" alt="Headphones">
+            <img src="img/headphone.jpeg" alt="Headphones">
             <h3>Headphones</h3>
             <p>₹1,499</p>
             <button onclick="addToCart()">Add to Cart</button>
         </div>
 
         <div class="product">
-            <img src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400" alt="Watch">
+            <img src="img/watch.jpeg" alt="Watch">
             <h3>Smart Watch</h3>
             <p>₹2,499</p>
             <button onclick="addToCart()">Add to Cart</button>
         </div>
 
         <div class="product">
-            <img src="https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400" alt="Shoes">
+            <img src="img/shoes.jpeg" alt="Shoes">
             <h3>Sports Shoes</h3>
             <p>₹1,999</p>
             <button onclick="addToCart()">Add to Cart</button>
         </div>
 
         <div class="product">
-            <img src="https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=400" alt="Camera">
+            <img src="img/camera.jpeg" alt="Camera">
             <h3>Camera</h3>
             <p>₹5,999</p>
             <button onclick="addToCart()">Add to Cart</button>
@@ -257,6 +258,7 @@ Upload to GitHub Pages for free hosting.
 
 </body>
 </html>
+
 
 ```
 
